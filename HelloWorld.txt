@@ -2,3 +2,6 @@ Hello World
 *Volgend bericht is gecensureerd*
 change
 yes
+or
+nah
+
